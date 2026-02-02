@@ -1,0 +1,37 @@
+header {
+    background-color: #aaa;
+    color: #111;
+    padding: 10px;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    text-align: justify;
+}
+
+nav a {
+    color: #111;
+    text-decoration: none;
+}
+
+nav li {
+    margin: 0, 10px;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0, 10px;
+}
+
+img {
+    max-width: 100%;
+}
+
+footer {
+    background-color: #aaa;
+    color: #111;
+    text-align: center;
+    padding: 10px,0;
+}
